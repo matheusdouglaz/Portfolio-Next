@@ -19,7 +19,9 @@ const Home = () => {
                 <span>Download CV</span>
                 <FiDownload className="text-xl"/>
               </Button>
-              <div>Socials</div>
+              <div className="mb-8 xl:mb-0">
+                <Socials />
+                </div>
             </div>
           </div>
           {/*photo*/}
