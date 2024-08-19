@@ -13,7 +13,7 @@ const Photo = () => {
         >
             {/*image*/}
             <motion.div animate={{
-            opacity: 1, 
+            opacity: 5, 
             transition:{delay: 2.4, duration: 0.4, ease: "easeInOut"}
             }}
             className="w-[298px] h-[298px] xl:w-[498px] xl:h-[498px] mix-blend-lighten absolute ">
