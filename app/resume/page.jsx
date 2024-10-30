@@ -7,6 +7,7 @@ import {
   FaReact,
   FaFigma,
   FaNodeJs,
+  FaAngular,
 } from "react-icons/fa";
 
 import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
@@ -15,7 +16,7 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 
 const about = {
   title: "About me",
-  description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+  description: "A developer driven by challenges and continuous learning. I have experience in JavaScript, React, Angular, Next, HTML and CSS, and I apply this knowledge to create innovative and effective digital solutions.",
   info: [
     {
       fieldName: "Name",
@@ -31,7 +32,7 @@ const about = {
     },
     {
       fieldName: "Email",
-      fieldValue: "matheustecnoologi@outlook.com",
+      fieldValue: "matheustecnologi@outlook.com",
     },
     {
       fieldName: "Nationality",
@@ -43,7 +44,7 @@ const about = {
     },
     {
       fieldName: "Languages",
-      fieldValue: "English, Spanish",
+      fieldValue: "Português",
     },
   ],
 };
@@ -52,42 +53,22 @@ const about = {
 const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My experience",
-  description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+  description: "I currently work as a web developer at MDS, where I use HTML, CSS and JavaScript and tools such as Plone and WordPress. I also work as a freelancer for Finitum and have provided services for Inpacto, focusing on frontend using React, Angular, Next.js, among other technologies.",
   items: [
     {
-      company: "Tech Solutions Inc.",
-      position: "Full Stack Developer",
-      duration: "2022 - Present",
+      company: "MDS",
+      position: "Web developer",
+      duration: "2023 - Present",
     },
     {
-      company: "Web Designe Studio",
-      position: "Front-End Developer Intern",
-      duration: "Summer 2021",
+      company: "Finitum",
+      position: "Front-End freelancer",
+      duration: "09/2021 - 07-2023",
     },
     {
-      company: "Web Designe Studio",
-      position: "Front-End Developer Intern",
-      duration: "Summer 2021",
-    },
-    {
-      company: "E-commerce Startup",
-      position: "Freelance Web Developer",
-      duration: "2020-2021",
-    },
-    {
-      company: "Teach Academy",
-      position: "Teaching Assistant",
-      duration: "2019-2020",
-    },
-    {
-      company: "Digital Agency",
-      position: "UI/UX Designer",
-      duration: "2018-2019",
-    },
-    {
-      company: "Software Development Firm",
-      position: "Junior Developer",
-      duration: "2017-2018",
+      company: "InPacto",
+      position: "Front-End freelancer",
+      duration: "09/2023 - 12/2023",
     },
   ],
 };
@@ -96,37 +77,32 @@ const experience = {
 const education = {
   icon: "/assets/resume/badge.svg",
   title: "My education",
-  description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+  description: "Graduating in Systems Analysis and Development, with experience in several languages ​​and technologies. I have completed courses in JavaScript, HTML, CSS, Tailwind, React, Angular, Programming Logic, UI/UX, among others.",
   items: [
     {
-      institution: "Online Course Platform",
-      degree: "Full Stack Developement Bootcamp",
+      institution: "Descomplica",
+      degree: "Analise de Sistemas",
+      duration: "2023-2025",
+    },
+    {
+      institution: "Rocketseat",
+      degree: "Desenvolvimento Web",
       duration: "2023",
     },
     {
-      institution: "Codecademy",
-      degree: "Front-end Track",
-      duration: "2022",
+      institution: "DIO",
+      degree: "Formação JavaScript",
+      duration: "2023",
     },
     {
-      institution: "Online Course",
-      degree: "Programming Course",
-      duration: "2020 - 2021",
+      institution: "DIO",
+      degree: "Introdução ao NEXT",
+      duration: "2023",
     },
     {
-      institution: "Tech Institute",
-      degree: "Certified Web Developer",
-      duration: "2019",
-    },
-    {
-      institution: "Design School",
-      degree: "Diploma in Graphic Design",
-      duration: "2016 - 2018",
-    },
-    {
-      institution: "Community College",
-      degree: "Associate Degree in Computer Science",
-      duration: "2014 - 2016",
+      institution: "Udemy",
+      degree: "PHP",
+      duration: "2024",
     },
   ],
 };
@@ -134,7 +110,7 @@ const education = {
 //Skills data
 const skills = {
   title: "My skills",
-  description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+  //description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
   skillList: [
     {
       icon: <FaHtml5 />,
@@ -153,16 +129,16 @@ const skills = {
       name: "react.js",
     },
     {
+      icon: <FaAngular />,
+      name: "angular",
+    },
+    {
       icon: <SiNextdotjs />,
       name: "next.js",
     },
     {
       icon: <SiTailwindcss />,
       name: "tailwind.css",
-    },
-    {
-      icon: <FaNodeJs />,
-      name: "node.js",
     },
     {
       icon: <FaFigma />,

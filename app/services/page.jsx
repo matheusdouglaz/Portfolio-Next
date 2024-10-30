@@ -9,26 +9,26 @@ const services = [
         num: '01',
         title: 'Front-End',
         description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, itaque veniam! Tempore dignissimos enim, consequuntur quibusdam pariatur dolorem fugiat!",
-        href: ""
+        href: "/work"
     },
     {
         num: '02',
         title: 'UI/UX Design',
         description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, itaque veniam! Tempore dignissimos enim, consequuntur quibusdam pariatur dolorem fugiat!",
-        href: ""
+        href: "/work"
     },
-    {
-        num: '03',
-        title: 'Logo Design',
-        description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, itaque veniam! Tempore dignissimos enim, consequuntur quibusdam pariatur dolorem fugiat!",
-        href: ""
-    },
-    {
-        num: '04',
-        title: 'SEO',
-        description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, itaque veniam! Tempore dignissimos enim, consequuntur quibusdam pariatur dolorem fugiat!",
-        href: ""
-    },
+    // {
+    //     num: '03',
+    //     title: 'Logo Design',
+    //     description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, itaque veniam! Tempore dignissimos enim, consequuntur quibusdam pariatur dolorem fugiat!",
+    //     href: ""
+    // },
+    // {
+    //     num: '04',
+    //     title: 'SEO',
+    //     description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, itaque veniam! Tempore dignissimos enim, consequuntur quibusdam pariatur dolorem fugiat!",
+    //     href: ""
+    // },
 ];
 
 import {motion} from "framer-motion";
