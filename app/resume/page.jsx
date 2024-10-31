@@ -28,23 +28,19 @@ const about = {
     },
     {
       fieldName: "Experience",
-      fieldValue: "12+ Years",
-    },
-    {
-      fieldName: "Email",
-      fieldValue: "matheustecnologi@outlook.com",
+      fieldValue: "3+ Years",
     },
     {
       fieldName: "Nationality",
       fieldValue: "Brazilian",
     },
     {
-      fieldName: "Freelance",
-      fieldValue: "Available",
-    },
-    {
       fieldName: "Languages",
       fieldValue: "Português",
+    },
+    {
+      fieldName: "Freelance",
+      fieldValue: "Available",
     },
   ],
 };

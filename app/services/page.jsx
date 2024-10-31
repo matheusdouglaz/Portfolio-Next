@@ -8,13 +8,13 @@ const services = [
     {
         num: '01',
         title: 'Front-End',
-        description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, itaque veniam! Tempore dignissimos enim, consequuntur quibusdam pariatur dolorem fugiat!",
+        description: "I specialize in creating responsive and high-performance web applications using modern technologies like React, Angular, and Next.js. My focus is on clean, maintainable code and ensuring that every interface looks great on any device, delivering seamless and fast user experiences.",
         href: "/work"
     },
     {
         num: '02',
         title: 'UI/UX Design',
-        description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, itaque veniam! Tempore dignissimos enim, consequuntur quibusdam pariatur dolorem fugiat!",
+        description: "I design intuitive and visually appealing interfaces that prioritize user experience and accessibility. With a user-centered approach, I craft layouts that are not only functional but also enhance user engagement, ensuring a smooth and enjoyable interaction with the product.",
         href: "/work"
     },
     // {
