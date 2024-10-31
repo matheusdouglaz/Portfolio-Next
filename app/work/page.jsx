@@ -50,7 +50,7 @@ const projects = [
       "DevBurguer is an e-commerce application developed to optimize the online ordering process of a burger restaurant, allowing sales only at specific times. With shopping cart management features, the project offers an intuitive user experience, facilitating product selection and order submission in real time.",
     stack: [{ name: "HTML.js" }, { name: "CSS" }, { name: "Tailwind.css" }, { name: "JS" }],
     image: "/assets/work/devburguer.png",
-    live: "https://devburguer-groi7t7bd-matheus-projects-8900721a.vercel.app/",
+    live: "https://devburguer-five.vercel.app/",
     github: "https://github.com/matheusdouglaz/devburguer",
   },
   {
